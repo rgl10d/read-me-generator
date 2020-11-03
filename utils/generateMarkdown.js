@@ -11,6 +11,8 @@ ${data.description}
 * [Installation](#installation)
 * [Usage](#usage)
 * [Credits](#credits)
+* [Questions](#questions)
+* [Tests](#tests)
 * [License](#license)
 
 ## Installation
@@ -21,26 +23,25 @@ ${data.installation}
 
 ${data.usage}
 
+## Tests
+
+${data.tests}
+
 ## Credits
 
 ${data.contribution}
 
-## License
+## Questions?
 
-${data.license}
+To contact me you can:
+Visit me at my GitHub page: ${data.github}
+Or email me: ${data.email}
 
 ---
 
-## Questions?
-You can visit me at my GitHub page: ${data.github}
-Or email me at: ${data.email}
+## License
 
-## Badges
-
-![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
-
-## Tests
-
+${data.license}
 `;
 }
 
