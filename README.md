@@ -16,7 +16,7 @@ REQUIRED INSTALLS: NodeJS, Inquirer NPM
 
 To be able to run the program, you must have NodeJS and the Inquirer npm installed.
 
-You can download NodeJS ![here](https://nodejs.org/en/download/).
+You can download NodeJS here: https://nodejs.org/en/download/
 To download the Inquirer NPM, navigate to the folder that contains this code and run 'npm init -y' followed by 'npm install inquirer'.
 
 ## Usage 
@@ -25,7 +25,7 @@ Use your terminal application of choice, navigate to the folder that contains th
 
 ## Questions?
 
-Visit me at my GitHub page: [github.com/rgl10d](https://www.github.com/rgl10d)
+Visit me at my GitHub page: https://www.github.com/rgl10d
 
 Or email me: rgl10d@gmail.com
 
