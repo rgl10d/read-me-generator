@@ -954,12 +954,17 @@ Public License instead of this License.  But first, please read
   ""
 ]
 
+// Array of license badges
+const badges = ["[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)",
+"[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)","[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)"
+]
 
 // Inquirer questions and writing to README function call
 inquirer.prompt(questions)
   .then((answers) => {
     for(i=0; i < questions[8].choices.length; i++){
       if(answers.license === questions[8].choices[i]){
+        answers.badge = badges[i];
         answers.license = licenses[i];
         fs.writeFile("NEWREADME.md", generateMarkdown(answers), (err) =>
         err ? console.error(err) : console.log("README created!")
