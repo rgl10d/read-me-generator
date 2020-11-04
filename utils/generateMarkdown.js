@@ -33,7 +33,6 @@ ${data.contribution}
 
 ## Questions?
 
-To contact me you can:
 Visit me at my GitHub page: ${data.github}
 Or email me: ${data.email}
 
