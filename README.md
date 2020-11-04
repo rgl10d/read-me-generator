@@ -22,7 +22,7 @@ To download the Inquirer NPM, navigate to the folder that contains this code and
 
 ## Usage 
 
-DEMO VIDEO: https://drive.google.com/file/d/1GhIkr71b3zu03gZBMb_HuykgpRo7csC7/view
+DEMO VIDEO: https://drive.google.com/file/d/1Wv-m1-yI0P2jz-DSDKWwKBTQFRVQGfcw/view
 
 Use your terminal application of choice, navigate to the folder that contains this code and run 'node index.js'. The terminal will then return a series of questions, type out your answers in the terminal and the README will be created automatically upon completion of the final question. The last question is about licenses, you will choose one option from a list of choices and the full license will be printed onto the README.
 

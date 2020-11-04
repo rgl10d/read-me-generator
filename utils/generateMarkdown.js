@@ -10,9 +10,9 @@ ${data.description}
 
 * [Installation](#installation)
 * [Usage](#usage)
+* [Tests](#tests)
 * [Credits](#credits)
 * [Questions](#questions)
-* [Tests](#tests)
 * [License](#license)
 
 ## Installation
