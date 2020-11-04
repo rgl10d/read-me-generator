@@ -34,9 +34,8 @@ ${data.contribution}
 ## Questions?
 
 Visit me at my GitHub page: ${data.github}
-Or email me: ${data.email}
 
----
+Or email me: ${data.email}
 
 ## License
 
